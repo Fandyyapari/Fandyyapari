@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fandy+Fernanda+Yapari;Informatics+Engineering" alt="Typing SVG" /></a>
 
 <!--
 **Fandyyapari/Fandyyapari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
