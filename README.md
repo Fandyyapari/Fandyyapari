@@ -20,6 +20,4 @@
 <a href="" style="color: white; margin-right: 20px;" aria-label="Twitter">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="#" style="color: white; margin-right: 20px;" aria-label="Dribbble">Dribbble</a>
-<a href="https://github.com/Fandyyapari" style="color: white;" aria-label="GitHub">GitHub</a>
 </div>
