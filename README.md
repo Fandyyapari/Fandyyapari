@@ -5,17 +5,21 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNoa3cwd3I0cGpxdWxka2d6ZmE4bDJmYnhmZ3Q2Z2kwdDU4MTMxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif">
 </div>
-<!--
-**Fandyyapari/Fandyyapari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center"> What i use </h2>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp,py,arduino,octave,html,css,js,php,laravel" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" >
+<a href="https://www.linkedin.com/in/fandy-yapari-181186356/" style="color: white; margin-right: 20px;"aria-label="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="" style="color: white; margin-right: 20px;" aria-label="Twitter">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="#" style="color: white; margin-right: 20px;" aria-label="Dribbble">Dribbble</a>
+<a href="https://github.com/Fandyyapari" style="color: white;" aria-label="GitHub">GitHub</a>
+</div>
